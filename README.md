@@ -70,6 +70,9 @@ openupm add com.alelievr.node-graph-processor
 ### Install via Git
 
 Alternatively, you can use the [git address feature in the package manager](https://forum.unity.com/threads/git-support-on-package-manager.573673/) on the branch [#upm](https://github.com/alelievr/NodeGraphProcessor/tree/upm), it only contains the package but it may be out of sync compared to master.
+```
+https://github.com/alelievr/NodeGraphProcessor.git#upm
+```
 
 Note that you'll not have access to the examples provided in this repo because the package only include the core of NodeGraphProcessor.
 
